@@ -1,6 +1,6 @@
 # ContextualSplashBug
 
-Project to demo black screen in VR preview over link
+Project to repro black screen in VR preview over link
 
 
 - Enable airlink and link to Quest
