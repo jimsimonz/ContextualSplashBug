@@ -1,7 +1,7 @@
 # ContextualSplashBug
 
 Project to repro black screen in VR preview over link
-
+- Tested with the Oculus Fork 5.4.2. v65
 
 - Enable airlink and link to Quest
 - Run VR preview
